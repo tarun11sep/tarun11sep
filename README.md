@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tarun Rajpoot
-- 👀 I’m interested in Full Stack
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning new technologies
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -->tarun11sept@gmail.com
